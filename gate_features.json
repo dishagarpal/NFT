@@ -1,0 +1,29 @@
+[
+    {
+        "yolo_a_conf": 0.9228383302688599,
+        "yolo_b_conf": 0.8999979496002197,
+        "yolo_c_conf": 0.9392169713973999,
+        "yolo_a_present": 1,
+        "yolo_b_present": 1,
+        "yolo_c_present": 1,
+        "class_name": "laptop"
+    },
+    {
+        "yolo_a_conf": 0.4074611961841583,
+        "yolo_b_conf": 0.0,
+        "yolo_c_conf": 0.0,
+        "yolo_a_present": 1,
+        "yolo_b_present": 0,
+        "yolo_c_present": 0,
+        "class_name": "vase"
+    },
+    {
+        "yolo_a_conf": 0.38708895444869995,
+        "yolo_b_conf": 0.0,
+        "yolo_c_conf": 0.7786858081817627,
+        "yolo_a_present": 1,
+        "yolo_b_present": 0,
+        "yolo_c_present": 1,
+        "class_name": "bottle"
+    }
+]
